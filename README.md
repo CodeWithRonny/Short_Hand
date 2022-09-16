@@ -1,10 +1,18 @@
 # Short_Hand
 
 
+## Short Hand Or Ternary Operator Syntax
+```
+if condition: Body of if
+
+Body of if if condition else Body of else
+
+Body of if if condition else body of second if condition else body of else
+```
 
 
 
-
+## Code used in video
 
 ```
 # a = 5
